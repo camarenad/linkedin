@@ -1,1019 +1,827 @@
 ,skills
-0,data analysis
-1,alteryx
-2,data maintenance
-3,customer support
-4,tableau
-5,sales growth
-6,tenacious work ethic
-7,computer literacy
-8,high degree of initiative
-9,skilled multi-tasker
-10,bachelor's degree
-11,data analysis
-12,analytical skills
-13,customer acquisition
-14,content marketing
-15,concert production
+0,mathematics
+1,data intelligence
+2,sql
+3,analytical skills
+4,spreadsheet
+5,time management
+6,data analytics
+7,problem solving
+8,project management
+9,customer experience
+10,data analysis
+11,pivot tables
+12,sql
+13,microsoft excel
+14,analytical skills
+15,spreadsheet
 16,data analytics
-17,google data studio
-18,google drive
-19,skilled multi-tasker
-20,data science
-21,data analysis
-22,mathematics
-23,a/b testing
-24,data visualization
-25,written communication
-26,tableau
-27,analytical skills
-28,data analytics
-29,r
-30,marketing analytics
+17,multidimensional expressions (mdx)
+18,data management
+19,business intelligence (bi)
+20,data analysis
+21,sql
+22,microsoft excel
+23,tableau
+24,analytical skills
+25,communication
+26,funding
+27,analytical support
+28,problem solving
+29,finance
+30,bachelor's degree
 31,data analysis
 32,analytics
-33,data visualization
-34,data collection
-35,data solutions
+33,coding practices
+34,data visualization
+35,tableau
 36,data analytics
-37,data science
-38,business intelligence (bi)
-39,development strategy
+37,data models
+38,key metrics
+39,data science
 40,data warehousing
-41,bachelor's degree
-42,data analysis
-43,sql
-44,microsoft excel
-45,analytical skills
-46,nursing homes
-47,metrics reporting
-48,healthcare
-49,big data
-50,bachelor's degree
-51,data analysis
-52,mathematics
-53,sql server reporting services (ssrs)
-54,computer science
-55,data architecture
-56,microsoft power bi
-57,data analytics
-58,relational databases
-59,data modeling
-60,data science
-61,online advertising
-62,written communication
-63,brand strategy
-64,analytical skills
-65,data analytics
-66,marketing attribution
-67,media strategy
-68,web analytics
-69,campaign
-70,digital media
-71,financial services
-72,interpersonal communication
-73,python (programming language)
-74,sql
-75,analytical skills
-76,banking
-77,loan
-78,coding experience
-79,credit bureau
-80,data quality
-81,data analysis
-82,python (programming language)
-83,sql
-84,analytical skills
-85,information technology
-86,computer science
-87,regulatory compliance
-88,software development
-89,big data
-90,financial reporting
+41,data visualization
+42,feature selection
+43,analytical skills
+44,business planning and control system (bpcs)
+45,data analytics
+46,unstructured data
+47,relationship building
+48,team leadership
+49,sales channel
+50,interpersonal skills
+51,bachelor's degree
+52,data analysis
+53,build strong relationships
+54,written communication
+55,performance measurement
+56,data architecture
+57,implementation plans
+58,communication
+59,project coordination
+60,business analysis
+61,it strategy
+62,bachelor's degree
+63,data analysis
+64,data privacy
+65,organization skills
+66,analytical skills
+67,data governance
+68,network security
+69,enterprise data
+70,interpersonal skills
+71,data analysis
+72,mathematics
+73,tableau
+74,analytical skills
+75,advertising campaigns
+76,statistical analysis
+77,google data studio
+78,google tag manager
+79,"extract, transform, load (etl)"
+80,datorama
+81,analytics
+82,excel models
+83,data visualization
+84,sql
+85,microsoft excel
+86,analytical skills
+87,statistical programming
+88,microsoft powerpoint
+89,patient care
+90,operational activities
 91,bachelor's degree
 92,data analysis
-93,sql
-94,microsoft excel
-95,tableau
-96,analytical skills
-97,communication
-98,funding
-99,analytical support
-100,problem solving
-101,finance
+93,capital markets
+94,analytical skills
+95,financial technology
+96,hedge funds
+97,financial analysis
+98,asset management
+99,business analysis
+100,data management
+101,business intelligence (bi)
 102,bachelor's degree
 103,data analysis
-104,mathematics
+104,test scripts
 105,sql
-106,tableau
-107,analytical skills
-108,business development
-109,api development
-110,consulting
-111,business intelligence (bi)
-112,creative problem solving
+106,microsoft excel
+107,microsoft dynamics
+108,data entry
+109,data reconciliation
+110,data mapping
+111,database
+112,microsoft access
 113,data analysis
 114,mathematics
-115,statistic
-116,sql
-117,analytical skills
-118,information management
-119,computer science
-120,data solutions
-121,customer relationship management (crm)
-122,pagerduty
+115,sql server reporting services (ssrs)
+116,computer science
+117,data architecture
+118,microsoft power bi
+119,data analytics
+120,relational databases
+121,data modeling
+122,data science
 123,data analysis
-124,pivot tables
-125,sql
-126,microsoft excel
-127,analytical skills
-128,spreadsheet
-129,data analytics
-130,multidimensional expressions (mdx)
-131,data management
-132,business intelligence (bi)
-133,data analysis
-134,analytics
-135,market research
-136,analytical skills
-137,client relations
-138,statistical data analysis
-139,quantitative research
-140,critical thinking
-141,data analytics
-142,data mining
-143,data analysis
-144,capital markets
-145,business analytics
-146,analytical skills
-147,requirements analysis
-148,fintech
-149,hedge funds
-150,asset management
-151,data management
-152,business intelligence (bi)
-153,bachelor's degree
-154,python (programming language)
-155,sql
-156,tableau
-157,etl tools
-158,data analytics
-159,predictive modeling
-160,snowflake
-161,business intelligence (bi)
-162,bachelor's degree
-163,data analysis
-164,a/b testing
-165,data visualization
-166,tableau
-167,analytical skills
-168,google slides
-169,data analytics
-170,data mining
-171,presentation skills
-172,doubleclick for publishers (dfp)
-173,analytics
-174,statistical modeling
-175,hadoop
-176,machine learning
-177,strategy
-178,enterprise data
-179,data science
-180,data management
-181,business intelligence (bi)
-182,interpersonal skills
-183,data analysis
-184,data privacy
-185,organization skills
-186,analytical skills
-187,data governance
-188,network security
-189,enterprise data
-190,interpersonal skills
-191,process improvement
-192,management
-193,operations management
-194,data analytics
-195,quality management
-196,team management
-197,quality assurance
-198,data management
-199,data analysis
-200,analytics
-201,coding practices
-202,data visualization
-203,tableau
-204,data analytics
-205,data models
-206,key metrics
-207,data science
-208,data warehousing
-209,risk management
-210,data access
-211,information management
-212,document management
-213,records management
-214,law
-215,data retention
-216,litigation support
-217,file management
-218,information governance
-219,bachelor's degree
-220,analytics
-221,business intelligence tools
-222,microsoft excel
-223,tableau
-224,project support
-225,analytical skills
-226,microsoft powerpoint
-227,data analytics
-228,project management
-229,business intelligence (bi)
-230,data analysis
-231,test scripts
-232,sql
+124,mathematics
+125,statistic
+126,analytical skills
+127,insurance
+128,critical thinking
+129,problem solving
+130,presentation
+131,project management
+132,401(k) retirement savings plans
+133,bachelor's degree
+134,data analysis
+135,analytics
+136,business
+137,scrum
+138,analytical skills
+139,data analytics
+140,data mining
+141,project management
+142,business intelligence (bi)
+143,data warehousing
+144,analytics
+145,data integrity
+146,written communication
+147,analytical skills
+148,e-commerce
+149,domo
+150,data analytics
+151,google suite
+152,shopify
+153,marketing analytics
+154,bachelor's degree
+155,data analysis
+156,analytics
+157,mathematics
+158,statistic
+159,sql
+160,analytical skills
+161,data analytics
+162,business insights
+163,data mining
+164,big data
+165,bachelor's degree
+166,data analysis
+167,analytics
+168,direct response marketing
+169,sql
+170,analytical skills
+171,google analytics
+172,data analytics
+173,digital marketing
+174,marketing analytics
+175,digital marketing analytics
+176,bachelor's degree
+177,data integrity
+178,kronos timekeeping
+179,time clocks
+180,workday
+181,written communication
+182,analytical skills
+183,payroll
+184,timekeeping
+185,kronos
+186,system configuration
+187,bachelor's degree
+188,analytics
+189,analytical skills
+190,optimization
+191,statistical modeling
+192,actuarial science
+193,data analytics
+194,presentation
+195,project management
+196,data science
+197,bachelor's degree
+198,data analysis
+199,analytics
+200,business
+201,reporting & analysis
+202,analytical skills
+203,data analytics
+204,data mining
+205,project management
+206,operational activities
+207,data warehousing
+208,sql
+209,analytical skills
+210,consumer products
+211,demand planning
+212,high degree of initiative
+213,customer satisfaction
+214,data analytics
+215,problem solving
+216,forecasting
+217,amazon vendor central
+218,bachelor's degree
+219,analytics
+220,business
+221,sql
+222,sql server reporting services (ssrs)
+223,analytical skills
+224,healthcare industry
+225,data analytics
+226,problem solving
+227,decision-making
+228,design
+229,bachelor's degree
+230,analytics
+231,adobe analytics
+232,youtube analytics
 233,microsoft excel
-234,microsoft dynamics
-235,data entry
-236,data reconciliation
-237,data mapping
-238,database
-239,microsoft access
-240,analytics
-241,business
-242,intelligence analysis
-243,microsoft excel
-244,tableau
-245,analytical skills
-246,data analytics
-247,data mining
-248,microstrategy
-249,business intelligence (bi)
+234,tableau
+235,demographic
+236,advertising campaigns
+237,data analytics
+238,data management
+239,campaign
+240,data analysis
+241,analytics
+242,data visualization
+243,data collection
+244,data solutions
+245,data analytics
+246,data science
+247,business intelligence (bi)
+248,development strategy
+249,data warehousing
 250,bachelor's degree
-251,direct response marketing
-252,data collection
-253,analytical skills
-254,marketing campaigns
-255,google analytics
-256,data analytics
-257,consumer marketing
-258,data mining
+251,data analysis
+252,analytics
+253,adobe analytics
+254,youtube analytics
+255,tableau
+256,analytical skills
+257,google analytics
+258,data analytics
 259,web analytics
-260,branding
-261,adobe analytics
-262,written communication
-263,from conception to completion
-264,analytical skills
-265,project design
-266,independence
-267,skilled multi-tasker
-268,project work
-269,marketing analytics
-270,interpersonal skills
-271,bachelor's degree
-272,mathematics
-273,sql
-274,tableau
-275,marketing campaigns
-276,data analytics
-277,sa
-278,looker (software)
-279,data science
-280,business intelligence (bi)
-281,instrumental application monitoring
-282,bachelor's degree
-283,analytics
-284,analytical skills
-285,optimization
-286,statistical modeling
-287,actuarial science
-288,data analytics
-289,presentation
-290,project management
-291,data science
-292,bachelor's degree
-293,customer service
-294,royalty
-295,confidentiality
-296,communication
-297,contractual agreements
-298,union
-299,residual
-300,regulation
-301,analytics
-302,capital markets
-303,corporate bonds
-304,sql
-305,microsoft excel
-306,tableau
-307,risk analytics
-308,data analytics
-309,data management
-310,fixed income
-311,bachelor's degree
-312,data analysis
-313,sql
-314,tableau
-315,analytical skills
-316,artificial intelligence (ai)
-317,numpy
-318,data analytics
-319,looker (software)
-320,data mining
-321,modeling
-322,data analysis
-323,analytics
-324,data visualization
-325,tableau
-326,analytical skills
-327,business acumen
-328,data mining
-329,data models
-330,business intelligence (bi)
-331,sql server analysis services (ssas)
-332,analytics
-333,production lines
-334,category management
-335,sale
-336,continuous improvement
-337,teamwork
-338,data analytics
-339,business insights
-340,bachelor's degree
-341,data analysis
-342,ad serving
-343,reporting & analysis
-344,deadline oriented
-345,data visualization
-346,microsoft excel
-347,analytical skills
-348,data analytics
-349,data models
-350,marketing analytics
-351,bachelor's degree
-352,data analysis
-353,analytics
-354,adobe analytics
-355,youtube analytics
-356,tableau
-357,analytical skills
-358,google analytics
-359,data analytics
-360,web analytics
-361,campaign analytics
-362,bachelor's degree
-363,crimson hexagon
-364,pivot tables
-365,twitter analytics
-366,analytical skills
-367,social analytics
-368,data analytics
-369,quantitative analytics
-370,audience segmentation
-371,facebook marketing
-372,data analysis
-373,sql
-374,written communication
-375,analytical skills
-376,journey mapping
-377,electronic data interchange (edi)
-378,care management
-379,documentation
-380,performance monitoring
-381,interpersonal skills
-382,bachelor's degree
-383,amazon ec2
-384,graphql
-385,hive
-386,amazon s3
-387,apache airflow
-388,apache spark
-389,hadoop
-390,cassandra
-391,scala
-392,airflow
-393,bachelor's degree
-394,data analysis
-395,capital markets
-396,analytical skills
-397,financial technology
-398,hedge funds
-399,financial analysis
-400,asset management
-401,business analysis
-402,data management
-403,business intelligence (bi)
-404,bachelor's degree
-405,crimson hexagon
-406,data visualization
-407,microsoft excel
-408,analytical skills
-409,marketing strategy
-410,data analytics
-411,social listening
-412,radian6
-413,performance analysis
-414,social media
-415,bachelor's degree
-416,data analysis
-417,building long-term relationships
-418,advertising sales
-419,content marketing
-420,data analytics
-421,business insights
-422,digital marketing
-423,marketing
-424,marketing analytics
-425,sales research
-426,analytics
-427,statistical modeling
-428,hadoop
-429,machine learning
-430,strategy
-431,enterprise data
-432,data science
-433,data management
-434,business intelligence (bi)
-435,interpersonal skills
-436,analytics
-437,adobe analytics
-438,youtube analytics
-439,microsoft excel
-440,tableau
-441,demographic
-442,advertising campaigns
-443,data analytics
-444,data management
-445,campaign
-446,analytics
-447,excel models
-448,data visualization
-449,sql
-450,microsoft excel
-451,analytical skills
-452,statistical programming
-453,microsoft powerpoint
-454,patient care
-455,operational activities
-456,bachelor's degree
-457,analytics
-458,python (programming language)
-459,sql
-460,analytical skills
-461,perl
-462,paid social media
-463,data analytics
-464,sequel
-465,marketing analytics
-466,paid social media advertising
-467,bachelor's degree
-468,analytics
-469,business
-470,statistic
-471,data engineering
-472,analytical skills
-473,engineering
-474,core data
-475,project management
-476,data science
-477,data quality
-478,master's degree
-479,data analysis
-480,client services
-481,python (programming language)
-482,client accounts
-483,sql
-484,data visualization
-485,data mining
-486,customer success
-487,data science
-488,customer experience
-489,data integrity
-490,kronos timekeeping
-491,time clocks
-492,workday
-493,written communication
-494,analytical skills
-495,payroll
-496,timekeeping
-497,kronos
-498,system configuration
-499,bachelor's degree
-500,data analysis
-501,sql
-502,master data management
-503,data quality
-504,business
-505,process improvement
-506,budgeting
-507,analytical skills
-508,problem solving
-509,confidential documents
-510,prioritize workload
-511,project management
-512,administration
-513,interpersonal skills
+260,campaign analytics
+261,bachelor's degree
+262,analytics
+263,capital markets
+264,corporate bonds
+265,sql
+266,microsoft excel
+267,tableau
+268,risk analytics
+269,data analytics
+270,data management
+271,fixed income
+272,bachelor's degree
+273,data analysis
+274,analytical skills
+275,customer acquisition
+276,content marketing
+277,concert production
+278,data analytics
+279,google data studio
+280,google drive
+281,skilled multi-tasker
+282,data science
+283,bachelor's degree
+284,data analysis
+285,sql
+286,tableau
+287,analytical skills
+288,artificial intelligence (ai)
+289,numpy
+290,data analytics
+291,looker (software)
+292,data mining
+293,modeling
+294,contact centers
+295,it business analysis
+296,system development
+297,requirements analysis
+298,voice over ip (voip)
+299,business analysis planning & monitoring
+300,telephony
+301,business systems
+302,business analysis
+303,business systems analysis
+304,bachelor's degree
+305,salesforce marketing cloud
+306,business relationship management
+307,organization skills
+308,sql
+309,analytical skills
+310,customer relationship management (crm)
+311,b2c marketing
+312,web analytics
+313,digital marketing
+314,business intelligence (bi)
+315,data analysis
+316,marketing effectiveness
+317,sql
+318,tableau
+319,analytical skills
+320,content marketing
+321,data analytics
+322,marketing
+323,marketing analytics
+324,campaign
+325,data analysis
+326,analytics
+327,mobile games
+328,sql
+329,analytical skills
+330,data mining
+331,big data
+332,relational databases
+333,ad hoc analysis
+334,business intelligence (bi)
+335,mathematics
+336,organization skills
+337,microsoft excel
+338,analytical skills
+339,computer literacy
+340,procedure manuals
+341,report writing
+342,time management
+343,annual reports
+344,skilled multi-tasker
+345,bachelor's degree
+346,data analysis
+347,sql
+348,tableau
+349,analytical skills
+350,bayesian statistics
+351,google bigquery
+352,looker (software)
+353,snowflake
+354,presentation skills
+355,data quality
+356,data engineering
+357,hive
+358,sql
+359,java
+360,emerging technologies
+361,artificial intelligence (ai)
+362,robotic process automation (rpa)
+363,data mining
+364,big data
+365,data science
+366,data analysis
+367,client services
+368,python (programming language)
+369,client accounts
+370,sql
+371,data visualization
+372,data mining
+373,customer success
+374,data science
+375,customer experience
+376,analytics
+377,business
+378,statistic
+379,data engineering
+380,analytical skills
+381,engineering
+382,core data
+383,project management
+384,data science
+385,data quality
+386,master's degree
+387,python (programming language)
+388,sql
+389,tableau
+390,etl tools
+391,data analytics
+392,predictive modeling
+393,snowflake
+394,business intelligence (bi)
+395,bachelor's degree
+396,data analysis
+397,capital markets
+398,business analytics
+399,analytical skills
+400,requirements analysis
+401,fintech
+402,hedge funds
+403,asset management
+404,data management
+405,business intelligence (bi)
+406,bachelor's degree
+407,data analysis
+408,idq
+409,data visualization
+410,analytical skills
+411,data architecture
+412,data governance
+413,data profiling
+414,enterprise data
+415,edm
+416,data quality
+417,bachelor's degree
+418,online marketing analysis
+419,alteryx
+420,sql
+421,analytical skills
+422,google analytics
+423,data analytics
+424,digital marketing
+425,customer experience
+426,marketing analytics
+427,analytics
+428,python (programming language)
+429,sql
+430,analytical skills
+431,perl
+432,paid social media
+433,data analytics
+434,sequel
+435,marketing analytics
+436,paid social media advertising
+437,bachelor's degree
+438,business
+439,customer service
+440,sales & distribution
+441,vistex
+442,electronic data interchange (edi)
+443,systems analysis
+444,business systems
+445,business systems analysis
+446,production support
+447,abap
+448,bachelor's degree
+449,data analysis
+450,digital strategy
+451,social media
+452,data analysis
+453,analytics
+454,people analytics
+455,data integrity
+456,human resources (hr)
+457,workday
+458,analytical skills
+459,data analytics
+460,handle multiple priorities
+461,project management
+462,bachelor's degree
+463,data analysis
+464,blackrock aladdin
+465,python (programming language)
+466,microsoft excel
+467,analytical skills
+468,financial data
+469,libor
+470,finance
+471,visual basic for applications (vba)
+472,project management
+473,written communication
+474,analytical skills
+475,sap successfactors
+476,problem solving
+477,leadership
+478,presentation skills
+479,business process mapping
+480,project management
+481,relationship development
+482,interpersonal skills
+483,bachelor's degree
+484,clinical research
+485,critical care nursing
+486,medical devices
+487,medical terminology
+488,quality system
+489,radiology nursing
+490,certified nursing assistant (cna)
+491,good clinical practice (gcp)
+492,medical imaging
+493,interventional radiology
+494,apache ant
+495,teamcity
+496,java
+497,maven
+498,websphere application server
+499,jboss application server
+500,red hat linux
+501,system administration
+502,jenkins
+503,gradle
+504,financial applications
+505,aderant
+506,tech-savvy
+507,sql server integration services (ssis)
+508,data analytics
+509,windows 10
+510,programming
+511,finance
+512,project management
+513,data science
 514,bachelor's degree
-515,process improvement
-516,quality control
-517,pharmacy
-518,sql
-519,microsoft excel
-520,analytical skills
-521,high degree of initiative
-522,healthcare
-523,business analysis
-524,database
-525,data engineering
-526,hive
-527,sql
-528,java
-529,emerging technologies
-530,artificial intelligence (ai)
-531,robotic process automation (rpa)
-532,data mining
-533,big data
-534,data science
-535,data analysis
-536,software sales
-537,technical sales
-538,salesforce.com
-539,sale
-540,sales process
-541,sales presentations
-542,presentation
-543,sales strategy
-544,presentation skills
-545,data analysis
-546,business analytics
-547,sales performance
-548,analytical skills
-549,technical support
-550,sale
-551,sales operations
-552,pharmaceutical industry
-553,project management
-554,data management
-555,bachelor's degree
-556,business
-557,customer service
-558,sales & distribution
-559,vistex
-560,electronic data interchange (edi)
-561,systems analysis
-562,business systems
-563,business systems analysis
-564,production support
-565,abap
-566,bachelor's degree
-567,financial applications
-568,aderant
-569,tech-savvy
-570,sql server integration services (ssis)
-571,data analytics
-572,windows 10
-573,programming
-574,finance
-575,project management
-576,data science
-577,bachelor's degree
-578,bachelor's degree
-579,online marketing analysis
-580,alteryx
-581,sql
-582,analytical skills
-583,google analytics
+515,portfolio management
+516,capital markets
+517,written communication
+518,analytical skills
+519,investment research
+520,investment
+521,asset allocation
+522,finance
+523,presentation
+524,quantitative analytics
+525,portfolio management
+526,dcf
+527,microsoft excel
+528,commercial real estate
+529,analytical skills
+530,valuation
+531,financial analysis
+532,finance
+533,argus modeling
+534,mathematics
+535,financial services
+536,microsoft excel
+537,analytical skills
+538,loan
+539,underwriting
+540,financial analysis
+541,finance
+542,structured finance
+543,performance analysis
+544,analytics
+545,sql
+546,tableau
+547,time management
+548,data analytics
+549,problem solving
+550,data mining
+551,digital marketing
+552,data quality
+553,marketing analytics
+554,portfolio management
+555,research projects
+556,mathematics
+557,research
+558,analytical skills
+559,chartered financial analyst
+560,communication
+561,finance
+562,financial modeling
+563,fixed income
+564,bachelor's degree
+565,analytics
+566,business
+567,analytical skills
+568,software as a service (saas)
+569,data analytics
+570,problem solving
+571,business insights
+572,strategy
+573,presto
+574,data management
+575,bachelor's degree
+576,data analysis
+577,mathematics
+578,rf systems
+579,travel
+580,analytical skills
+581,physic
+582,navy
+583,radio frequency (rf)
 584,data analytics
-585,digital marketing
-586,customer experience
-587,marketing analytics
-588,written communication
-589,computer science
-590,information systems
-591,itil
+585,systems engineering
+586,bachelor's degree
+587,analytics
+588,ad serving
+589,data visualization
+590,analytical skills
+591,online marketing
 592,data analytics
-593,business analysis
-594,consulting
-595,change management
-596,bachelor's degree
-597,analytics
-598,analytical skills
-599,e-commerce
-600,machine learning
-601,data analytics
-602,b2c
-603,data science
-604,consumer financing
-605,scripting
-606,campaign
-607,data analysis
-608,analytical skills
-609,computer literacy
-610,accounting
-611,critical thinking
-612,financial analysis
-613,financial forecasting
-614,finance
-615,planning budgeting & forecasting
-616,key performance indicators
-617,data analysis
-618,data integrity
-619,mathematics
-620,data reporting
-621,sql
-622,analytical skills
-623,data analytics
-624,data mining
-625,data science
-626,data storage
-627,bachelor's degree
-628,financial results
-629,sql
-630,analytical skills
-631,accounting
-632,financial analysis
-633,forecasting
-634,finance
-635,leadership
-636,daily operations
-637,budgeting & forecasting
+593,campaign management
+594,team management
+595,data science
+596,campaign
+597,amazon ec2
+598,graphql
+599,hive
+600,amazon s3
+601,apache airflow
+602,apache spark
+603,hadoop
+604,cassandra
+605,scala
+606,airflow
+607,bachelor's degree
+608,data analysis
+609,python (programming language)
+610,written communication
+611,computer science
+612,creative strategy
+613,artificial intelligence (ai)
+614,hadoop
+615,data mining
+616,data science
+617,scripting
+618,business analytics
+619,microsoft excel
+620,analytical skills
+621,space management
+622,consumer products
+623,sales & marketing
+624,computer literacy
+625,communication
+626,teamwork
+627,merchandising
+628,business intelligence tools
+629,business
+630,netsuite
+631,microsoft excel
+632,analytical skills
+633,sales & marketing
+634,sale
+635,data analytics
+636,finance
+637,marketing analytics
 638,bachelor's degree
-639,portfolio management
-640,capital markets
-641,written communication
-642,analytical skills
-643,investment research
-644,investment
-645,asset allocation
-646,finance
-647,presentation
-648,quantitative analytics
+639,informatica
+640,sql
+641,nosql
+642,cloud services
+643,amazon elastic mapreduce (emr)
+644,data mining
+645,big data
+646,amazon web services (aws)
+647,database administration
+648,fluentd
 649,data analysis
-650,process improvement
-651,human resources (hr)
-652,organization skills
-653,ultipro
-654,confidentiality
-655,critical thinking
-656,human resources information systems (hris)
-657,401(k) retirement savings plans
-658,troubleshooting
-659,analytics
-660,microsoft excel
-661,analytical skills
-662,diversity
-663,electronic data interchange (edi)
-664,sage 100 erp
-665,perpetual inventory
-666,inventory control
-667,microsoft office
-668,reliability
-669,associate's degree
-670,ad serving
-671,google ads
-672,microsoft excel
-673,analytical skills
-674,web technologies
-675,business insights
-676,web analytics
-677,digital marketing
-678,quantitative data
-679,campaign
-680,bachelor's degree
-681,solution implementation
-682,research
-683,semi-structured interviews
-684,written communication
-685,structured interviews
-686,multivariate analysis
-687,atlas.ti
-688,health services research
-689,data analytics
-690,data management
-691,research doctorate
-692,analytics
-693,business
-694,salesforce.com
-695,computer science
-696,sale
-697,technology implementation
-698,quote
-699,sales management
-700,business systems
-701,business systems analysis
-702,bachelor's degree
-703,portfolio management
-704,research projects
-705,mathematics
-706,research
-707,analytical skills
-708,chartered financial analyst
-709,communication
-710,finance
-711,financial modeling
-712,fixed income
-713,bachelor's degree
-714,apache ant
-715,teamcity
-716,java
-717,maven
-718,websphere application server
-719,jboss application server
-720,red hat linux
-721,system administration
-722,jenkins
-723,gradle
-724,process improvement
-725,salesforce.com development
-726,analytical skills
-727,requirements analysis
-728,salesforce.com administration
-729,systems analysis
-730,skilled multi-tasker
-731,pardot
-732,datorama
-733,interpersonal skills
-734,data analysis
-735,data integrity
-736,process improvement
-737,human resources (hr)
-738,analytical skills
-739,paycom
-740,computer science
-741,report writing
-742,human resources information systems (hris)
-743,project management
-744,bachelor's degree
-745,process improvement
-746,tax compliance
-747,analytical skills
-748,jd edwards
-749,budget management
-750,financial analysis
-751,accounting system
-752,financial reporting
-753,enterprise resource planning (erp)
-754,data privacy
-755,it risk management
-756,cyber-security
-757,analytical skills
-758,security operations
-759,cybersecurity
-760,network security
-761,cyber
-762,information security
-763,investigation
-764,bachelor's degree
-765,analytics
-766,ad serving
-767,data visualization
-768,analytical skills
-769,online marketing
+650,analytics
+651,data integrity
+652,human resources (hr)
+653,workday
+654,microsoft excel
+655,analytical skills
+656,technical support
+657,report writing
+658,human resources information systems (hris)
+659,bachelor's degree
+660,data analysis
+661,process improvement
+662,human resources (hr)
+663,organization skills
+664,ultipro
+665,confidentiality
+666,critical thinking
+667,human resources information systems (hris)
+668,401(k) retirement savings plans
+669,troubleshooting
+670,data analysis
+671,analytics
+672,business
+673,tableau
+674,analytical skills
+675,marketing campaigns
+676,data analytics
+677,marketing
+678,performance metrics
+679,marketing analytics
+680,analytics
+681,production lines
+682,category management
+683,sale
+684,continuous improvement
+685,teamwork
+686,data analytics
+687,business insights
+688,bachelor's degree
+689,solution implementation
+690,research
+691,semi-structured interviews
+692,written communication
+693,structured interviews
+694,multivariate analysis
+695,atlas.ti
+696,health services research
+697,data analytics
+698,data management
+699,research doctorate
+700,data analysis
+701,trend analysis
+702,sales analysis
+703,analytical skills
+704,high level of accuracy
+705,account management
+706,sales process
+707,sales presentations
+708,customer satisfaction
+709,retail sales
+710,bachelor's degree
+711,business
+712,organization skills
+713,analytical skills
+714,financial projection
+715,confidentiality
+716,financial analysis
+717,finance
+718,quantitative analytics
+719,project management
+720,interpersonal skills
+721,eclipse
+722,apache ant
+723,teamcity
+724,enterprise javabeans (ejb)
+725,java
+726,maven
+727,jboss application server
+728,javascript
+729,jenkins
+730,gradle
+731,business
+732,process improvement
+733,microsoft excel
+734,analytical skills
+735,account reconciliation
+736,decision-making
+737,financial analysis
+738,finance
+739,financial performance
+740,benchmarking
+741,bachelor's degree
+742,data analysis
+743,high pressure environment
+744,analytical skills
+745,category management
+746,map
+747,road maps
+748,problem solving
+749,forecasting
+750,presentation
+751,presentation skills
+752,bachelor's degree
+753,analytical skills
+754,account reconciliation
+755,accounting
+756,financials
+757,financial analysis
+758,finance
+759,scenario analysis
+760,presentation
+761,financial reporting
+762,bachelor's degree
+763,ad exchanges
+764,online advertising
+765,display advertising
+766,microsoft excel
+767,analytical skills
+768,advertising
+769,data solutions
 770,data analytics
-771,campaign management
-772,team management
-773,data science
-774,campaign
-775,informatica
-776,sql
-777,nosql
-778,cloud services
-779,amazon elastic mapreduce (emr)
-780,data mining
-781,big data
-782,amazon web services (aws)
-783,database administration
-784,fluentd
-785,data analysis
-786,data visualization
-787,sql
-788,tableau
-789,analytical skills
-790,artificial intelligence (ai)
-791,data analytics
-792,looker (software)
-793,instrumental application monitoring
-794,scripting
-795,credit risk
-796,sql
-797,microsoft excel
-798,quantitative analytics
-799,mortgage lending
-800,bachelor's degree
-801,test execution
-802,interpersonal communication
-803,system development
-804,analytical skills
-805,customer service
-806,personal protective equipment (ppe)
-807,information technology
-808,engineering
-809,information systems
-810,test planning
-811,bachelor's degree
-812,ad serving
-813,sql
-814,brand strategy
-815,marketing science
-816,web analytics
-817,social media
-818,marketing analytics
-819,data-driven marketing
-820,digital media
-821,ad exchanges
-822,online advertising
-823,display advertising
-824,microsoft excel
-825,analytical skills
-826,advertising
-827,data solutions
-828,data analytics
-829,troubleshooting
-830,data analysis
-831,time tracking
-832,microsoft excel
-833,expense allocation
-834,accounting
-835,financial accounting
-836,policy development
-837,policies & procedures
-838,finance
-839,memo
-840,bachelor's degree
-841,analytics
-842,business
-843,analytical skills
-844,software as a service (saas)
-845,data analytics
-846,problem solving
-847,business insights
-848,strategy
-849,presto
-850,data management
-851,bachelor's degree
-852,analytics
-853,customer support
-854,analytical skills
-855,google analytics
-856,business development
-857,digital marketing
-858,project management
-859,data science
-860,customer experience
-861,interpersonal skills
-862,salesforce marketing cloud
-863,business relationship management
-864,organization skills
-865,sql
-866,analytical skills
-867,customer relationship management (crm)
-868,b2c marketing
-869,web analytics
-870,digital marketing
-871,business intelligence (bi)
-872,written communication
-873,analytical skills
-874,sap successfactors
-875,problem solving
-876,leadership
-877,presentation skills
-878,business process mapping
-879,project management
-880,relationship development
-881,interpersonal skills
-882,bachelor's degree
-883,analytics
-884,sap businessobjects
-885,tableau
-886,statistical modeling
-887,hadoop
-888,data analytics
-889,microstrategy
-890,strategy
-891,enterprise data
-892,business intelligence (bi)
-893,customer-focused service
-894,post-production support
-895,sql
-896,analytical skills
-897,salesforce.com
-898,salesforce lightning
-899,communication
-900,customer relationship management (crm)
-901,teamwork
-902,business analysis
-903,bachelor's degree
-904,construction
-905,microsoft excel
-906,analytical skills
-907,computer literacy
-908,report writing
-909,communication
-910,critical thinking
-911,problem solving
-912,investigation
-913,construction management
-914,bachelor's degree
-915,portfolio management
-916,dcf
-917,microsoft excel
-918,commercial real estate
-919,analytical skills
-920,valuation
-921,financial analysis
-922,finance
-923,argus modeling
-924,tax compliance
-925,sap business one
-926,analytical skills
-927,balance sheet
-928,accounting
-929,management accounting
-930,certified public accounting (cpa)
-931,expense reports
-932,u.s. generally accepted accounting principles (gaap)
-933,interpersonal skills
-934,bachelor's degree
-935,business intelligence tools
-936,business
-937,netsuite
-938,microsoft excel
-939,analytical skills
-940,sales & marketing
-941,sale
-942,data analytics
-943,finance
-944,marketing analytics
-945,bachelor's degree
-946,functional design
-947,test scenarios
-948,cyber-security
-949,system development
-950,physical security
-951,process flow diagrams
-952,problem solving
-953,data models
-954,skilled multi-tasker
-955,information security
-956,data analysis
-957,high pressure environment
-958,analytical skills
-959,category management
-960,map
-961,road maps
-962,problem solving
-963,forecasting
-964,presentation
-965,presentation skills
-966,bachelor's degree
-967,analytics
-968,business analytics
-969,data visualization
-970,sql
-971,analytical skills
-972,optimization
-973,marketing campaigns
-974,data analytics
-975,data mining
-976,data science
-977,facebook
-978,microsoft excel
-979,analytical skills
-980,advertising
-981,interpreting data
-982,strategy
-983,interpreting
-984,paid media
-985,social media
-986,campaign
-987,python (programming language)
-988,web services api
-989,automated processes
-990,soar
-991,phantom
-992,incident response
-993,process automation
-994,api development
-995,security information and event management (siem)
-996,use case analysis
-997,bachelor's degree
-998,data analysis
-999,analytics
-1000,mobile games
-1001,sql
-1002,analytical skills
-1003,data analytics
-1004,data mining
-1005,big data
-1006,relational databases
-1007,business intelligence (bi)
-1008,business process
-1009,infopath
-1010,pivot tables
-1011,sap configuration
-1012,manufacturing
-1013,analytical skills
-1014,apics
-1015,master data
-1016,high degree of initiative
-1017,systems analysis
+771,troubleshooting
+772,tax compliance
+773,sap business one
+774,analytical skills
+775,balance sheet
+776,accounting
+777,management accounting
+778,certified public accounting (cpa)
+779,expense reports
+780,u.s. generally accepted accounting principles (gaap)
+781,interpersonal skills
+782,bachelor's degree
+783,budgeting
+784,manufacturing
+785,accounting
+786,kpi reports
+787,data analytics
+788,financial analysis
+789,forecasting
+790,financial reporting
+791,certified public accounting (cpa)
+792,financial modeling
+793,bachelor's degree
+794,analytical skills
+795,problem solving
+796,healthcare
+797,healthcare management
+798,leadership
+799,presentation skills
+800,business process mapping
+801,project management
+802,relationship development
+803,interpersonal skills
+804,bachelor's degree
+805,data analysis
+806,analytics
+807,customer journeys
+808,a/b testing
+809,data visualization
+810,tableau
+811,business acumen
+812,data manipulation
+813,data analytics
+814,data science
+815,analytical skills
+816,account reconciliation
+817,accounting
+818,financials
+819,financial analysis
+820,finance
+821,scenario analysis
+822,presentation
+823,financial reporting
+824,financial systems
+825,bachelor's degree
