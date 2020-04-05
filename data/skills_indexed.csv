@@ -1,0 +1,494 @@
+,job_index,skills
+0,0,Computer Science
+1,0,Data Science
+2,0,Bioinformatics
+3,0,DNA Sequencing
+4,0,Pipeline Development
+5,0,Bioengineering
+6,0,Sequencing
+7,0,Machine Learning
+8,0,Bachelor's Degree
+9,1,Mathematics
+10,1,Computer Science
+11,1,Data Analysis
+12,1,Data Science
+13,1,SQL Server Reporting Services (SSRS)
+14,1,Data Architecture
+15,1,Microsoft Power BI
+16,1,Data Analytics
+17,1,Relational Databases
+18,1,Data Modeling
+19,2,SQL
+20,2,Data Analysis
+21,2,Business
+22,2,Microsoft Excel
+23,2,Tableau
+24,2,Business Analysis
+25,3,Mathematics
+26,3,Analytical Skills
+27,3,Data Analysis
+28,3,A/B Testing
+29,3,Data Visualization
+30,3,Written Communication
+31,3,Tableau
+32,3,Amplitude Analytics
+33,3,Data Analytics
+34,3,Marketing Analytics
+35,4,SQL
+36,4,Analytical Skills
+37,4,Analytics
+38,4,Data Visualization
+39,4,Tableau
+40,4,Reporting Tool
+41,4,Job Scheduling
+42,4,Data Analytics
+43,4,Problem Solving
+44,4,Azure Databricks
+45,5,Data Analysis
+46,5,Data Science
+47,5,Analytics
+48,5,Coding Practices
+49,5,Data Visualization
+50,5,Tableau
+51,5,Data Analytics
+52,5,Data Models
+53,5,Key Metrics
+54,5,Data Warehousing
+55,7,Analytical Skills
+56,7,Data Analysis
+57,7,Capital Markets
+58,7,Financial Technology
+59,7,Hedge Funds
+60,7,Financial Analysis
+61,7,Asset Management
+62,7,Business Analysis
+63,7,Data Management
+64,7,Business Intelligence (BI)
+65,7,Bachelor's Degree
+66,8,SQL
+67,8,Analytics
+68,8,Capital Markets
+69,8,Corporate Bonds
+70,8,Microsoft Excel
+71,8,Tableau
+72,8,Risk Analytics
+73,8,Data Analytics
+74,8,Data Management
+75,8,Fixed Income
+76,8,Bachelor's Degree
+77,10,SQL
+78,10,Analytical Skills
+79,10,Data Analysis
+80,10,Data Science
+81,10,Reporting & Analysis
+82,10,Microsoft Excel
+83,10,SQL Server Reporting Services (SSRS)
+84,10,Data Analytics
+85,10,SAS
+86,10,Data Presentation
+87,10,Bachelor's Degree
+88,13,SQL
+89,13,Data Visualization
+90,13,Tableau
+91,13,Data Validation
+92,13,Microsoft Power BI
+93,13,Adaptive Insights
+94,13,Data Manipulation
+95,13,Data Analytics
+96,13,Databases
+97,13,Solution Focused
+98,13,Bachelor's Degree
+99,15,SQL
+100,15,Analytical Skills
+101,15,Data Analysis
+102,15,Pivot Tables
+103,15,Microsoft Excel
+104,15,Spreadsheets
+105,15,Data Analytics
+106,15,MultiDimensional eXpressions (MDX)
+107,15,Data Management
+108,15,Operations
+109,20,SQL
+110,20,Analytical Skills
+111,20,Data Analysis
+112,20,Data Science
+113,20,Process Improvement
+114,20,Tableau
+115,20,Data Analytics
+116,20,Data Mining
+117,20,Big Data
+118,20,Business Intelligence (BI)
+119,31,SQL
+120,31,Data Analysis
+121,31,Analytics
+122,31,Alteryx
+123,31,Data Visualization
+124,31,Tableau
+125,31,E-commerce
+126,31,Data Integration
+127,31,Google Analytics
+128,31,Data Warehousing
+129,32,Analytical Skills
+130,32,Data Analysis
+131,32,Data Science
+132,32,Research Projects
+133,32,Data Visualization
+134,32,Statistical Modeling
+135,32,Machine Learning
+136,32,Data Analytics
+137,32,Business Insights
+138,32,Weka
+139,32,Bachelor's Degree
+140,59,SQL
+141,59,Data Science
+142,59,Data Engineering
+143,59,Plain Language
+144,59,Data Munging
+145,59,Multivariate Analysis
+146,59,BlackLine
+147,59,Google Cloud Platform (GCP)
+148,59,Accounting
+149,59,Amazon Web Services (AWS)
+150,59,Master's Degree
+151,60,SQL
+152,60,Analytical Skills
+153,60,Data Analysis
+154,60,Tableau
+155,60,Bayesian statistics
+156,60,Google BigQuery
+157,60,Looker (Software)
+158,60,Snowflake
+159,60,Presentation Skills
+160,60,Data Quality
+161,69,Mathematics
+162,69,Statistics
+163,69,Python (Programming Language)
+164,69,Data Analysis
+165,69,Data Science
+166,69,Data Analytics
+167,69,Problem Solving
+168,69,Marketing
+169,69,R
+170,69,Query Writing
+171,69,Bachelor's Degree
+172,75,Mathematics
+173,75,Statistics
+174,75,Analytical Skills
+175,75,Data Analysis
+176,75,Insurance
+177,75,Critical Thinking
+178,75,Problem Solving
+179,75,Presentations
+180,75,Project Management
+181,75,401(k) Retirement Savings Plans
+182,75,Bachelor's Degree
+183,93,Analytical Skills
+184,93,Data Science
+185,93,Artificial Intelligence (AI)
+186,93,Machine Learning
+187,93,Big Data
+188,93,Natural Language Processing (NLP)
+189,93,Neural Networks
+190,93,Team Leadership
+191,93,Machine Learning Algorithms
+192,93,Data Pipelines
+193,102,Python (Programming Language)
+194,102,Analytical Skills
+195,102,Data Science
+196,102,Data Integration
+197,102,Manufacturing Engineering
+198,102,Communication
+199,102,Biopharmaceuticals
+200,102,Supply Chain Management
+201,102,Supply Chain Operations
+202,102,Operations
+203,102,Bachelor's Degree
+204,108,Analytical Skills
+205,108,Data Analysis
+206,108,Data Science
+207,108,Analytics
+208,108,A/B Testing
+209,108,Tableau
+210,108,E-commerce
+211,108,Google Analytics
+212,108,Data Analytics
+213,108,Web Analytics
+214,120,Mathematics
+215,120,Analytical Skills
+216,120,Organization Skills
+217,120,Microsoft Excel
+218,120,Computer Literacy
+219,120,Procedure Manuals
+220,120,Report Writing
+221,120,Time Management
+222,120,Annual Reports
+223,120,Skilled Multi-tasker
+224,120,Bachelor's Degree
+225,123,Mathematics
+226,123,Data Science
+227,123,American Welding Society Standards
+228,123,Image Processing
+229,123,Kubernetes
+230,123,Deep Learning
+231,123,Data Products
+232,123,Error Analysis
+233,123,Heuristics
+234,123,Amazon Web Services (AWS)
+235,137,Python (Programming Language)
+236,137,SQL
+237,137,Data Analysis
+238,137,Data Science
+239,137,Tableau
+240,137,Data Mining
+241,137,Unix
+242,137,Linux
+243,137,Database Administration
+244,137,R
+245,148,Python (Programming Language)
+246,148,Data Warehouse Architecture
+247,148,Java
+248,148,Apache Spark
+249,148,Data Solutions
+250,148,Big Data
+251,148,Microsoft Azure
+252,148,"Extract, Transform, Load (ETL)"
+253,148,PySpark
+254,148,Data Warehousing
+255,148,Bachelor's Degree
+256,149,Computer Science
+257,149,Analytics
+258,149,Apache Spark
+259,149,Google Cloud Platform (GCP)
+260,149,Information Systems
+261,149,High degree of initiative
+262,149,Computer Information Systems
+263,149,PySpark
+264,149,Skilled Multi-tasker
+265,149,Troubleshooting
+266,149,Bachelor's Degree
+267,154,Python (Programming Language)
+268,154,Computer Science
+269,154,Data Analysis
+270,154,Data Science
+271,154,Written Communication
+272,154,Creative Strategy
+273,154,Artificial Intelligence (AI)
+274,154,Hadoop
+275,154,Data Mining
+276,154,Scripting
+277,169,Analytical Skills
+278,169,Computer Science
+279,169,Data Science
+280,169,Data-driven Decision Making
+281,169,Data Engineering
+282,169,Product Analytics
+283,169,Deep Learning
+284,169,Machine Learning
+285,169,Data Mining
+286,169,Data Pipelines
+287,174,SQL
+288,174,Analytics
+289,174,Hive
+290,174,NoSQL
+291,174,Data Architecture
+292,174,Hadoop
+293,174,Data Mining
+294,174,Big Data
+295,174,Apache Kafka
+296,174,Apache Spark Streaming
+297,200,Python (Programming Language)
+298,200,Computer Science
+299,200,Data Science
+300,200,Data Engineering
+301,200,Client Services
+302,200,Data Analytics
+303,200,"Extract, Transform, Load (ETL)"
+304,200,Relational Databases
+305,200,Data Pipelines
+306,200,Data Warehousing
+307,201,Research
+308,201,Statistics
+309,201,Applied Mathematics
+310,201,Data Analysis
+311,201,Data Science
+312,201,Artificial Intelligence (AI)
+313,201,Machine Learning
+314,201,Big Data
+315,201,Big Data Analytics
+316,201,Applied Physics
+317,202,Analytical Skills
+318,202,Data Analysis
+319,202,Data Science
+320,202,Customer Acquisition
+321,202,Content Marketing
+322,202,Concert Production
+323,202,Data Analytics
+324,202,Google Data Studio
+325,202,Google Drive
+326,202,Skilled Multi-tasker
+327,207,Analytical Skills
+328,207,Data Analysis
+329,207,Centrifuge
+330,207,Biosafety
+331,207,Cell Lines
+332,207,Microscopes
+333,207,Apoptosis
+334,207,Cell Biology
+335,207,Blotting
+336,207,Autoclave
+337,220,Research
+338,220,Research Projects
+339,220,Academic Writing
+340,220,Bioinformatics
+341,220,Technical Reports
+342,220,Molecular Medicine
+343,220,Writing
+344,220,Laboratory Skills
+345,220,RNAseq
+346,220,Molecular Biology
+347,220,Research Doctorate
+348,227,Mathematics
+349,227,Analytical Skills
+350,227,Data Science
+351,227,Analytics
+352,227,Cookies
+353,227,Advertising Sales
+354,227,Sales
+355,227,Identifying Trends
+356,227,Customer Engagement
+357,227,Empirical Research
+358,227,Bachelor's Degree
+359,231,Leadership
+360,231,Data Science
+361,231,Mentoring
+362,231,Communication
+363,231,Machine Learning
+364,231,Anti-fraud
+365,231,Customer Retention
+366,231,Customer Engagement
+367,231,Lifetime Value
+368,231,Audience Segmentation
+369,231,Master's Degree
+370,235,Python (Programming Language)
+371,235,SQL
+372,235,Data Science
+373,235,Keras
+374,235,Computer Vision
+375,235,Deep Learning
+376,235,Machine Learning
+377,235,Image Recognition
+378,235,Scikit-Learn
+379,235,TensorFlow
+380,235,Bachelor's Degree
+381,252,Mathematics
+382,252,Analytical Skills
+383,252,Data Science
+384,252,Solution Implementation
+385,252,Data Engineering
+386,252,Deep Learning
+387,252,Machine Learning
+388,252,Problem Solving
+389,252,Natural Language Processing (NLP)
+390,252,TensorFlow
+391,252,Master's Degree
+392,267,Analytical Skills
+393,267,Data Science
+394,267,Written Communication
+395,267,Artificial Intelligence (AI)
+396,267,Hadoop
+397,267,Supervised Learning
+398,267,Pattern Recognition
+399,267,Machine Learning
+400,267,Data Wrangling
+401,267,Data Mining
+402,284,Data Integrity
+403,284,Winshuttle
+404,284,SAP Configuration
+405,284,Master Data Management
+406,284,Materials Management
+407,284,APICS
+408,284,Master Data
+409,284,Data Governance
+410,284,Apparel
+411,284,SAP Materials Management (SAP MM)
+412,315,SQL
+413,315,Analytical Skills
+414,315,Data Analysis
+415,315,Data Visualization
+416,315,Tableau
+417,315,Artificial Intelligence (AI)
+418,315,Data Analytics
+419,315,Looker (Software)
+420,315,Instrumental Application Monitoring
+421,315,Scripting
+422,327,Data Analysis
+423,327,Data Science
+424,327,Analytics
+425,327,Customer Journeys
+426,327,A/B Testing
+427,327,Data Visualization
+428,327,Tableau
+429,327,Business Acumen
+430,327,Data Manipulation
+431,327,Data Analytics
+432,335,Analytics
+433,335,Business
+434,335,Data Engineering
+435,335,Apache Spark
+436,335,Production Engineering
+437,335,Hadoop
+438,335,Data Analytics
+439,335,Data Mining
+440,335,Big Data
+441,335,Interpersonal Skills
+442,347,Analytical Skills
+443,347,Optimization
+444,347,Creative Agency
+445,347,Advertising
+446,347,Data Analytics
+447,347,Paid Media
+448,347,Multi-channel Marketing
+449,347,Presentation Skills
+450,347,YouTube
+451,347,Marketing Analytics
+452,348,Computer Science
+453,348,Software Development
+454,348,Auto Layout
+455,348,Generic Programming
+456,348,iOS
+457,348,Model-view-viewmodel (MVVM)
+458,348,Memory Management
+459,348,Core Data
+460,348,Swift (Programming Language)
+461,348,Structs
+462,348,Bachelor's Degree
+463,381,Mathematics
+464,381,Computer Science
+465,381,Data Science
+466,381,Next Gen
+467,381,Image Processing
+468,381,Apache Spark
+469,381,Deep Learning
+470,381,Machine Learning
+471,381,Customer Experience
+472,381,Personalization
+473,403,Python (Programming Language)
+474,403,SQL
+475,403,Data Science
+476,403,LTV
+477,403,Predictive Analytics
+478,403,Google Analytics
+479,403,Predictive Modeling
+480,403,Web Analytics
+481,403,R
+482,403,Marketing Analytics
+483,460,Analytical Skills
+484,460,Analytics
+485,460,Online Marketing Analysis
+486,460,Adobe Analytics
+487,460,Media Analysis
+488,460,Campaign Analytics
+489,460,DCM
+490,460,Marketing Analytics
+491,460,Campaigns
+492,460,Digital Media
